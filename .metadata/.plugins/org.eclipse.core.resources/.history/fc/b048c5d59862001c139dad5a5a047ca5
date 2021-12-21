@@ -1,0 +1,13 @@
+package ma.igoudconsulting.taskmanagement.model;
+
+import java.util.Date;
+
+import lombok.Data;
+
+@Data  //pour lombok
+public class UserTask {
+	
+	private Long id;
+	private Date assignementdate;
+
+}

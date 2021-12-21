@@ -1,0 +1,10 @@
+package ma.igoudconsulting.taskmanagement.model;
+
+import lombok.Data;
+
+@Data  //pour lombok
+public class UserTask {
+	
+	
+
+}

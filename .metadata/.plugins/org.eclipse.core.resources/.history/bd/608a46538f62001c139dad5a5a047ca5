@@ -1,0 +1,5 @@
+package ma.igoudconsulting.model;
+
+public class Task {
+
+}

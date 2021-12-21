@@ -1,0 +1,10 @@
+ 
+
+
+dans cette projet on travail par:
+spring boot et exactement en utilise spring data Jpa
+ spring web, spring securité, Mysql Driver et Lombok pour simplifie un petit peu le code de notre application
+
+
+CMMI?????
+shibboleth???
